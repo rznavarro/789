@@ -55,7 +55,7 @@ const coreTools: Tool[] = [
     name: "Chat Legal 24/7",
     category: "Asistente Avanzado",
     description: "Centro neurálgico legal con IA avanzada, análisis de documentos, plantillas y escalamiento",
-    webhookUrl: "https://8f7056be6e10.ngrok-free.app/webhook/Chat%20Legal%2024/7",
+    webhookUrl: "https://b3b2d2642c53.ngrok-free.app/webhook/Chat%20Legal%2024/7",
     chatType: 'chat',
     icon: Bot,
     priority: 1
